@@ -1,4 +1,8 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "LabVeilTec"
+languageCode = "fr-CH"
+title = "Laboratoire de Veille Technologique"
 theme = "ananke"
+DefaultContentLanguage = "fr"
+
+[params]
+    featured_image = "/images/ashwin-vaswani-JqZ7q_S3xOE-unsplash.jpg"
