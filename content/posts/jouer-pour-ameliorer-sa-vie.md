@@ -41,13 +41,5 @@ Beaucoup de facteurs doivent être respectés lors de la création d’un jeu. I
 Aux frontières du trans humanisme, cette technologie est bien présente dans le domaine médical afin d’aider les patients à suivre un programme de réhabilitation tout en les distrayant du réel effort à fournir. Alors que les nouvelles interfaces deviennent de plus en plus évoluées - Réalité virtuelle, réalité augmentée, motion capture,  interfaces cerveau-machine (ICM) - , l'apport de la gamification peut nous faire entrevoir des évolutions surprenantes. Et si, dans un futur proche, le jeu faisait partie intégrante de nos interactions, nos applications, notre travail,... de nos vies ? 
 
 
- # Note de l'auteur
-
-![alt text](/images/ex-app1.png)
-
-
-Suite au résultat de mon profil Ikigai c’est sans surprise que j’ai découvert qu’il m’a été attribué l’étiquette d’organisateur altruiste accompagnée d’autres qualités me caractérisant parfaitement. Cependant, deux éléments surprenants sont également ressortis : l’aspect médical et le jeu. Ce sont deux aspects que je ne m'attendais pas à voir ressortir, quand bien même je suis amatrice de jeux-vidéos. J'ai décidé de prendre mon intuition "à contre pied" : c’est pourquoi j’ai décidé d’explorer ces deux domaines et de traiter de la gamification au service de la santé. 
-
-
 
 [^1]: [En savoir plus sur les mécanismes de motivation](https://yukaichou.com/gamification-study/white-hat-black-hat-gamification-octalysis-framework/)

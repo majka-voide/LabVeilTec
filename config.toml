@@ -1,8 +1,15 @@
-baseURL = "http://example.org/"
+baseURL = "https://majka-voide.github.io"
 languageCode = "fr-CH"
 title = "Laboratoire de Veille Technologique"
 theme = "ananke"
 DefaultContentLanguage = "fr"
+publishdir = "majka-voide.github.io"
+sectionPagesMenu = "main"
+
+
+[Author]
+    name = "Majka Voide"
 
 [params]
     featured_image = "/images/ashwin-vaswani-JqZ7q_S3xOE-unsplash.jpg"
+
