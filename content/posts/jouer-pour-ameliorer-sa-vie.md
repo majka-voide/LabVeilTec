@@ -28,7 +28,7 @@ Suite à un accident, la réhabilitation peut être longue et douloureuse. Et si
 Imaginons que les mouvements que le patient doit effectuer pour sa rééducation deviennent une interaction avec le jeu, que chaque exercice devienne une mission, et que le nombre de répétition pour chaque mission devienne un objectif ? En s'identifiant à son avatar virtuel, qui devra par exemple pagayer sur une rivière pour récupérer des trésors flottants au lieu de simplement "bouger les bras en 8 cinquante fois",  le patient devenu "Joueur" pourra sortir de sa situation réelle, être d'avantage motivé et engagé, non seulement pour sa santé, mais aussi pour améliorer son score, récupérer plus de récompenses, s'amuser. 
 
 ## Des solutions concrètes
-![alt text](/images/app-screenshot.jpg)
+![capture d'écran de l'application](/images/app-screenshot.jpg)
 
 L’entreprise BioGaming a créé l’application « [Reflexion Health](https://medcitynews.com/2015/11/reflexion-health-fda-clearance/) » grâce à la technologie Microsoft Kinect Motion Capture. Cette application va accompagner les patients qui ont subi une opération de la hanche ou du genou, afin d’assurer un suivi dans leurs exercices de réhabilitation depuis leur domicile. Leurs données sont ensuite transmises directement à leur médecin pour un constat de progression. Un avatar nommé Vera va coacher l’utilisateur de manière ludique en simulant les différents mouvements et le motiver. Il a été prouvé que les patients ont obtenu de meilleurs résultats ainsi, leur permettant un meilleur engagement que dans un cabinet médical. 
 
